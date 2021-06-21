@@ -1,6 +1,23 @@
 ## În Iordan botiezându-te Tu, Doamneeee 
 ### Hi there 👋
 
+I have no idea what you're doing here lmao
+But since you are, here's some info about me
+
+Things that I am bad at: 
+*Networking
+*Front-end
+*Python
+*C
+*shellscript
+
+that's it lol, that's all of my coding abilities
+
+Things which I obsess over a lot more than I should:
+*SVG (SVG is BAE <3)
+*Blender (Blender is the best program ever made by human hands | Change my mind )
+*GCODE (coming soon)
+
 <!--
 **meutzitzu/meutzitzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
