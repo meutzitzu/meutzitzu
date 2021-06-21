@@ -14,7 +14,7 @@ Things that I am bad at:
 that's it lol, that's all of my coding abilities
 
 Things which I obsess over a lot more than I should:
-* SVG (SVG is BAE <3)
+* SVG (XML is BAE <3)
 * Blender (Blender is the best program ever made by human hands | Change my mind )
 * GCODE (coming soon)
 
