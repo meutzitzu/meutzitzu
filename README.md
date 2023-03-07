@@ -17,6 +17,7 @@ Things which I obsess over a lot more than I should:
 * SVG (XML is BAE <3)
 * Blender (Blender is the best program ever made by human hands | Change my mind )
 * GCODE (coming soon)
+* Shaders and computing on the GPU (coming soon)
 
 <!--
 **meutzitzu/meutzitzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
