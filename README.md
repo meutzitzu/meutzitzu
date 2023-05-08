@@ -4,12 +4,14 @@
 I have no idea what you're doing here lmao
 But since you are, here's some info about me
 
-Things that I am bad at: 
+Things that I am bad at:
+* shellscript
 * Networking
 * Front-end
 * Python
+* Rust
 * C
-* shellscript
+
 
 that's it lol, that's all of my coding abilities
 
