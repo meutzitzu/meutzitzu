@@ -1,19 +1,18 @@
-## În Iordan botiezându-te Tu, Doamneeee 
-### Hi there 👋
+<details> 
+  <summary><h2> Hello there </h2></summary>
+   <p>general kenobi</p>
+</details>
+
 
 I have no idea what you're doing here lmao
 But since you are, here's some info about me
 
-Things that I am bad at:
-* shellscript
-* Networking
-* Front-end
-* Python
-* Rust
-* C
-
+I (barely) know only 2 languages:
+- `.sh`
+- `.c`
 
 that's it lol, that's all of my coding abilities
+(I did take some college course on Java and C#, but with great effort and determination I managed to forget most of that OOP slop)
 
 Things which I obsess over a lot more than I should:
 * SVG (XML is BAE <3)
